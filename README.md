@@ -1,2 +1,1 @@
-# This all programs write in c programming in my 1 st semster  mid term work given by the lecturer.
-
+# This all written by dipendra joshi in my term work of first semster.
