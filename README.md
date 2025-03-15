@@ -1,1 +1,1 @@
-# c programs written by Dipendra
+# c programs 
