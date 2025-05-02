@@ -2,7 +2,7 @@
 
 Welcome to my **C Term Work Repository!** 🎉 This repository contains all my **C programming assignments, lab exercises, from my first semester at **Graphic Era Hill University**. It serves as a valuable resource for beginners learning C programming.  
 
-## 🛠️ Topics Covered  
+# 🛠️ Topics Covered  
 
 ✔️ **Basic Syntax** (Hello World, Variables, Data Types)  
 ✔️ **Operators & Expressions**  
@@ -13,9 +13,5 @@ Welcome to my **C Term Work Repository!** 🎉 This repository contains all my *
 
 🤝 Contributing
 This repository is meant for academic and learning purposes, but if you want to improve any code, feel free to contribute! 😊
-
-🔗 Connect With Me
-👨‍💻 Dipendra Joshi
-📧 dipendrajoshi062@gmail.com
 
 # Happy Coding! 🚀💻
