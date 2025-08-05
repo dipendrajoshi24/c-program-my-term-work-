@@ -13,4 +13,4 @@ Welcome to my **C Term Work Repository!** 🎉 This repository contains all my *
 ## 🤝 Contributing
 This repository is meant for academic and learning purposes, but if you want to improve any code, feel free to contribute! 😊
 
-| Happy Coding 🚀💻 |
+## | Happy Coding 🚀💻 |
